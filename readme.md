@@ -1,6 +1,11 @@
-[npm-image]: https://img.shields.io/npm/v/@adonisjs/ace/alpha.svg?style=for-the-badge&logo=npm
-[npm-url]: https://npmjs.org/package/@adonisjs/ace/v/alpha "npm"
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 
-[typescript-image]: https://img.shields.io/badge/Typescript-294E80.svg?style=for-the-badge&logo=typescript
+# API rest
 
-# Project c
+### Using AdonisJs with typescript
+
+This project is only for studies.
+
+#### Open issue or pull request and request review.
+
+[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/4NqhuhmQ)
